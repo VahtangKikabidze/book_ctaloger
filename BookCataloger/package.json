@@ -1,0 +1,35 @@
+{
+  "name": "BookCataloger",
+  "version": "1.0.0",
+  "author": "Sychov Igor",
+  "dependencies": {
+    "@angular/common": "^7.2.15",
+    "@angular/compiler": "^7.2.15",
+    "@angular/core": "^7.2.15",
+    "@angular/forms": "^7.2.15",
+    "@angular/platform-browser": "^7.2.15",
+    "@angular/platform-browser-dynamic": "^7.2.15",
+    "@angular/router": "^7.2.15",
+    "@ng-bootstrap/ng-bootstrap": "^4.1.2",
+    "core-js": "^3.0.1",
+    "rxjs": "^6.5.2",
+    "zone.js": "^0.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.0",
+    "@types/webpack-env": "^1.13.9",
+    "typescript": "^3.4.5",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-middleware": "^3.6.2",
+    "webpack-hot-middleware": "^2.24.4",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "uglifyjs-webpack-plugin": "^2.1.2",
+    "aspnet-prerendering": "^3.0.1",
+    "aspnet-webpack": "^3.0.0",
+    "raw-loader": "^2.0.0",
+    "html-loader": "^0.5.5",
+    "node-sass": "^4.12.0"
+  }
+}
