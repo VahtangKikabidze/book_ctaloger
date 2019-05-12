@@ -1,88 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c86ecbed-23a4-41ab-94bb-7068d393d7e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources/0a2775a0-78da-4ab4-9427-8d67d4d7dcaa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources/93f36213-1f8e-4a44-aec5-703b6ef9cdb9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources/93f36213-1f8e-4a44-aec5-703b6ef9cdb9/storage_v2/_src_/database/master.YiqNvw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources/93f36213-1f8e-4a44-aec5-703b6ef9cdb9/storage_v2/_src_/database/master.YiqNvw/schema/books_cat.wWzAeQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources/93f36213-1f8e-4a44-aec5-703b6ef9cdb9/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources/93f36213-1f8e-4a44-aec5-703b6ef9cdb9/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources/93f36213-1f8e-4a44-aec5-703b6ef9cdb9/storage_v2/_src_/database/master.YiqNvw/schema/guest.2C3iBQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources/b6b2af45-cf13-41f4-bf71-a946db1a8cb0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/BookCataloger.csproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/Objects/Book.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/Objects/Book.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/Pipes/filter-author.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app-routing.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app-routing.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app.module.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app.module.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/book.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/book.service.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/bookList/book-list.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/bookList/book-list.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/polyfills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/Web/polyfills.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/bin/Debug/netcoreapp2.2/BookCataloger.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/bin/Debug/netcoreapp2.2/BookCataloger.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/bin/Debug/netcoreapp2.2/BookCataloger.dll.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/bin/Debug/netcoreapp2.2/BookCataloger.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/bin/Debug/netcoreapp2.2/BookCataloger.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/bin/Debug/netcoreapp2.2/BookCataloger.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/BookCataloger.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/BookCataloger.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/BookCataloger.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.RazorAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.RazorAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/BookCataloger.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/Debug/netcoreapp2.2/Tsc3f3eb588.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/wwwroot/dist/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BookCataloger/wwwroot/dist/polyfills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/option.EntityFrameworkCore.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/BookCataloger.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/BookCataloger.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Controllers/BooksController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Controllers/BooksController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Models/ApplicationContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Models/ApplicationContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/Objects/Book.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/Objects/Book.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/book.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/book.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/bookList/book-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/bookList/book-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/bookList/book-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/bookList/book-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookCataloger/app.config" beforeDir="false" afterPath="$PROJECT_DIR$/BookCataloger/app.config" afterDir="false" />
-    </list>
+    <list default="true" id="c86ecbed-23a4-41ab-94bb-7068d393d7e4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,32 +29,6 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
-        <item name="master: database" type="ccb7ac2a:MsImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
-        <item name="master: database" type="ccb7ac2a:MsImplModel$Database" />
-        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
-        <item name="master: database" type="ccb7ac2a:MsImplModel$Database" />
-        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
-        <item name="master: database" type="ccb7ac2a:MsImplModel$Database" />
-        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="Books: table" type="63ab2ba1:MsImplModel$Table" />
-      </path>
     </expand>
     <select />
   </component>
@@ -144,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="78" column="54" lean-forward="true" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
+            <state relative-caret-position="1512">
+              <caret line="78" column="54" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -280,33 +173,6 @@
               <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
               <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Web" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Web" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="app" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Web" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="app" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="bookView" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="BookCataloger" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -412,7 +278,7 @@
       <workItem from="1557507238411" duration="2041000" />
       <workItem from="1557509641572" duration="19475000" />
       <workItem from="1557579422876" duration="25654000" />
-      <workItem from="1557608868940" duration="42962000" />
+      <workItem from="1557608868940" duration="43809000" />
     </task>
     <task id="LOCAL-00001" summary="commit before using visual studio">
       <created>1557607068768</created>
@@ -425,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90132000" />
+    <option name="totallyTimeSpent" value="90979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,9 +304,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32934782" />
@@ -459,7 +324,7 @@
       <window_info anchor="bottom" id="TypeScript" order="13" weight="0.32934782" />
       <window_info anchor="bottom" id="Unit Tests" order="14" />
       <window_info anchor="bottom" id="REST Client" order="15" weight="0.32934782" />
-      <window_info anchor="bottom" id="Terminal" order="16" weight="0.32934782" />
+      <window_info anchor="bottom" id="Terminal" order="16" visible="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Event Log" order="17" sideWeight="0.50053304" side_tool="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Database Console" order="18" weight="0.32934782" />
       <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.32934782" />
@@ -467,7 +332,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.2153518" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.2153518" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
@@ -923,8 +788,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="78" column="54" lean-forward="true" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
+        <state relative-caret-position="1512">
+          <caret line="78" column="54" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
         </state>
       </provider>
     </entry>
