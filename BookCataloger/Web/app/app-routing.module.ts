@@ -6,10 +6,8 @@ import {BookViewComponent} from "./bookView/book-view.component";
 
 
 const appRoutes: Routes = [
-    
-    { path: 'books', component: BookListComponent },
-    { path: 'book/:id', component: BookViewComponent },
-    { path: '', redirectTo: '/book/?action=add', pathMatch: 'full'}
+    { path: '', component: BookListComponent },
+    { path: 'book/:id', component: BookViewComponent }
 ];
 
 @NgModule({

@@ -9,13 +9,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookCataloger
 {
+ 
     
         public class Startup
         {
             public void ConfigureServices(IServiceCollection services)
             {
-                
-                string connectionString = "Server=(localdb)\\jdbc:sqlite:identifier.sqlite;Database=main;Trusted_Connection=True;";
+                string connectionString = "Server=(localdb)\\mssqllocaldb;Database=master;Trusted_Connection=True;";
+                //string connectionString = "Server=localhost;uid=root;pwd=;database=book_cataloger;Pooling=True";
                 services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(connectionString));
  
                 services.AddMvc();

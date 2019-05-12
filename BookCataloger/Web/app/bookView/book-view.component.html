@@ -1,4 +1,12 @@
+<style>
+    .ng-valid[required], .ng-valid.required  {
+        border-left: 5px solid #42A948; /* green */
+    }
 
+    .ng-invalid:not(form)  {
+        border-left: 5px solid #a94442; /* red */
+    }
+</style>
 
 <div class="container">
     <div class="row">
@@ -8,25 +16,36 @@
     </div>
     <div class="row" *ngIf="action == 'add' || action == 'edit';else view">
         <div class="col-12 col-md-8">
-            <div class="form-group">
-                <label>Название:</label>
-                <input type="text" [(ngModel)]="book.Name" class="form-control">
-            </div>
-            <div class="form-group">
-                <label>Автор:</label>
-                <input type="text" [(ngModel)]="book.Author" class="form-control"> </div>
-            <div class="form-group">
-                <label>Год выпуска:</label>
-                <input type="text" [(ngModel)]="book.Year" class="form-control"> </div>
-            <div class="form-group">
-                <label>Жанр:</label>
-                <input type="text" [(ngModel)]="book.Genre" class="form-control"></div>
-            <div class="form-group">
-                <label>Описание:</label>
-                <textarea type="text" [(ngModel)]="book.Description" class="form-control" rows="5"></textarea></div>
-            <div class="form-group">
-                <button *ngIf="action == 'add'" class="btn btn-success" (click)="addBook()">Добавить</button> 
-                <button *ngIf="action == 'edit'" class="btn btn-success" (click)="editBook(book.id)">Сохранить</button> 
+            <form  #form="ngForm">
+                <div class="form-group">
+                    <label for="title">Title:</label>
+                    <input type="text" [(ngModel)]="book.name" required minlength="1" name="title" id="title" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="author">Author:</label>
+                    <input type="text" [(ngModel)]="book.author" required minlength="1" id="author" name="author" class="form-control"> </div>
+                <div class="form-group">
+                    <label for="year" [ngClass]="">Year:</label>
+                    <input type="text" [(ngModel)]="book.year" required minlength="4" maxlength="4" id="year" name="year" class="form-control"> </div>
+                <div class="form-group">
+                    <label for="genre">Genre:</label>
+                    <input type="text" [(ngModel)]="book.genre" required minlength="1" id="genre" name="genre" class="form-control"></div>
+                <div class="form-group">
+                    <label for="description">Description:</label>
+                    <textarea type="text" [(ngModel)]="book.description" id="description" name="description" class="form-control" rows="5"></textarea></div>
+                <div class="form-group">
+                    <div class="row">
+                        <div class="col-auto" *ngIf="action == 'add'">
+                            <button [disabled]="!form.valid" class="btn btn-success" (click)="addBook()">Add Book</button>
+                        </div>
+                        <div class="col-auto" *ngIf="action == 'edit'">
+                            <button [disabled]="!form.valid" class="btn btn-success" (click)="editBook(book)">Save</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <div class="form-group" *ngIf="showSuccMess">
+                <span class="badge badge-success">Success</span>
             </div>
         </div>
     </div>
@@ -34,28 +53,33 @@
         <div class="row">
             <div class="col-12">
                 <div class="alert alert-light">
-                    <strong>Название:</strong>
-                    <p>{{book.Name}}</p>
+                    <strong>Title:</strong>
+                    <p>{{book?.name}}</p>
                 </div>
                 <div class="alert alert-light">
-                    <strong>Автор:</strong>
-                    <p> {{book.Author}}</p>
+                    <strong>Author:</strong>
+                    <p> {{book?.author}}</p>
                 </div>
                 <div class="alert alert-light">
-                    <strong>Год выпуска:</strong>
-                    <p>  {{book.Year}}</p>
+                    <strong>Year:</strong>
+                    <p>  {{book?.year}}</p>
                 </div>
                 <div class="alert alert-light">
-                    <strong>Жанр:</strong>
-                    <p>{{book.Genre}}</p>
+                    <strong>Genre:</strong>
+                    <p>{{book?.genre}}</p>
                 </div>
                 <div class="alert alert-light">
-                    <strong>Описание:</strong>
-                    <p> {{book.Description}}</p>
+                    <strong>Description:</strong>
+                    <p> {{book?.description}}</p>
                 </div>
-                <div>
-                    <button class="btn btn-warning" [routerLink]="['/book', book.id]" [queryParams]="{action:'edit'}">Редактировать</button>
-                </div>
+               <div class="row">
+                   <div class="col-auto">
+                       <button class="btn btn-warning" [routerLink]="['/book/',book?.id]" [queryParams]="{action:'edit'}">Edit</button>
+                   </div>
+                   <div class="col-auto" *ngIf="false">
+                       <button class="btn btn-danger" (click)="deleteBook(book)">Delete</button>
+                   </div>
+               </div>
             </div>
         </div>
     </ng-template>

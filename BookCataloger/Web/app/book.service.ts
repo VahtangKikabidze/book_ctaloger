@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HttpClient} from '@angular/common/http';
+import { HttpClient } from '@angular/common/http';
 import {Book} from "./Objects/Book";
 
 @Injectable()
@@ -12,16 +12,20 @@ export class BookService {
     public getBooks() {
         return this.http.get(this.url);
     }
+
+    public getBook(id: number) {
+        return this.http.get(this.url + '/' + id);
+    }
     
-    addBook(book: Book) {
+    public addBook(book: Book) {
         return this.http.post(this.url, book);
     }
     
-    editBook(book: Book) {
+    public editBook(book: Book){
         return this.http.put(this.url + '/' + book.id, book);
     }
     
-    deleteBook(id: number) {
+    public deleteBook(id: number) {
         return this.http.delete(this.url + '/' + id);
     }
 }

@@ -9,17 +9,8 @@ namespace BookCataloger.Controllers
     public class BooksController : Controller
     {
         ApplicationContext db;
-        public BooksController(ApplicationContext context)
-        {
-            db = context;
-            if(!db.Books.Any())
-            {
-                //db.Books.Add(new Book { Name = "iPhone X", Company="Apple", Price=79900 });
-
-                db.SaveChanges();
-            }
-        }
-        [HttpGet]
+        
+        [HttpGet]
         public IEnumerable<Book> Get()
         {
             return db.Books.ToList();

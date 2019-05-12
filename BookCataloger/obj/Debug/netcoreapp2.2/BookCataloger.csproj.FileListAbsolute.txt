@@ -1,0 +1,15 @@
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\bin\Debug\netcoreapp2.2\BookCataloger.dll.config
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\bin\Debug\netcoreapp2.2\BookCataloger.deps.json
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\bin\Debug\netcoreapp2.2\BookCataloger.runtimeconfig.json
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\bin\Debug\netcoreapp2.2\BookCataloger.runtimeconfig.dev.json
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\bin\Debug\netcoreapp2.2\BookCataloger.dll
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\bin\Debug\netcoreapp2.2\BookCataloger.pdb
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.csprojAssemblyReference.cache
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.csproj.CoreCompileInputs.cache
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.AssemblyInfoInputs.cache
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.AssemblyInfo.cs
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.dll
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.pdb
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.RazorAssemblyInfo.cache
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.RazorAssemblyInfo.cs
+D:\Igor\Work\BookCataloger\BookCataloger\BookCataloger\obj\Debug\netcoreapp2.2\BookCataloger.RazorTargetAssemblyInfo.cache

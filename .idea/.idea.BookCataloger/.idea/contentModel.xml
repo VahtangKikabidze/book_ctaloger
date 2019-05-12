@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.1\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_BookCataloger.868487811.00" t="ExcludeRecursive" />
+    <e p="D:\Igor\Work\BookCataloger\BookCataloger" t="IncludeFlat">
+      <e p="BookCataloger" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookCataloger.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="BooksController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ApplicationContext.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
+        </e>
+        <e p="node_modules\@angular\common" t="IncludeRecursive" />
+        <e p="node_modules\@angular\compiler" t="IncludeRecursive" />
+        <e p="node_modules\@angular\core" t="IncludeRecursive" />
+        <e p="node_modules\@angular\forms" t="IncludeRecursive" />
+        <e p="node_modules\@angular\platform-browser" t="IncludeRecursive" />
+        <e p="node_modules\@angular\platform-browser-dynamic" t="IncludeRecursive" />
+        <e p="node_modules\@angular\router" t="IncludeRecursive" />
+        <e p="node_modules\@ng-bootstrap\ng-bootstrap" t="IncludeRecursive" />
+        <e p="node_modules\@types" t="IncludeRecursive">
+          <e p="node" t="IncludeRecursive" />
+          <e p="webpack-env" t="IncludeRecursive" />
+        </e>
+        <e p="node_modules\angular2-template-loader" t="IncludeRecursive" />
+        <e p="node_modules\aspnet-prerendering" t="IncludeRecursive" />
+        <e p="node_modules\aspnet-webpack" t="IncludeRecursive" />
+        <e p="node_modules\awesome-typescript-loader" t="IncludeRecursive" />
+        <e p="node_modules\core-js" t="IncludeRecursive" />
+        <e p="node_modules\html-loader" t="IncludeRecursive" />
+        <e p="node_modules\node-sass" t="IncludeRecursive" />
+        <e p="node_modules\raw-loader" t="IncludeRecursive" />
+        <e p="node_modules\rxjs" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.dom.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.dom.iterable.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.collection.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.core.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.generator.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.iterable.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.promise.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.proxy.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.reflect.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.symbol.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2015.symbol.wellknown.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2016.array.include.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2016.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2016.full.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2017.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2017.full.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2017.intl.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2017.object.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2017.sharedmemory.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2017.string.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2017.typedarrays.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2018.asynciterable.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2018.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2018.full.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2018.intl.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2018.promise.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2018.regexp.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2019.array.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2019.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2019.full.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2019.string.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es2019.symbol.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es5.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.es6.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.esnext.array.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.esnext.asynciterable.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.esnext.bigint.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.esnext.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.esnext.full.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.esnext.intl.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.esnext.symbol.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.scripthost.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.webworker.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\typescript\lib\lib.webworker.importscripts.d.ts" t="IncludeRecursive" />
+        <e p="node_modules\uglifyjs-webpack-plugin" t="IncludeRecursive" />
+        <e p="node_modules\webpack" t="IncludeRecursive" />
+        <e p="node_modules\webpack-cli" t="IncludeRecursive" />
+        <e p="node_modules\webpack-dev-middleware" t="IncludeRecursive" />
+        <e p="node_modules\webpack-hot-middleware" t="IncludeRecursive" />
+        <e p="node_modules\zone.js" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="BookCataloger.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="tsconfig.json" t="Include" />
+        <e p="Web" t="Include">
+          <e p="app" t="Include">
+            <e p="app-routing.module.js" t="Include" />
+            <e p="app-routing.module.js.map" t="Include" />
+            <e p="app-routing.module.ts" t="Include" />
+            <e p="app.component.html" t="Include" />
+            <e p="app.component.js" t="Include" />
+            <e p="app.component.js.map" t="Include" />
+            <e p="app.component.ts" t="Include" />
+            <e p="app.module.js" t="Include" />
+            <e p="app.module.js.map" t="Include" />
+            <e p="app.module.ts" t="Include" />
+            <e p="book.service.js" t="Include" />
+            <e p="book.service.js.map" t="Include" />
+            <e p="book.service.ts" t="Include" />
+            <e p="bookList" t="Include">
+              <e p="book-list.component.html" t="Include" />
+              <e p="book-list.component.js" t="Include" />
+              <e p="book-list.component.js.map" t="Include" />
+              <e p="book-list.component.ts" t="Include" />
+            </e>
+            <e p="bookView" t="Include">
+              <e p="book-view.component.html" t="Include" />
+              <e p="book-view.component.js" t="Include" />
+              <e p="book-view.component.js.map" t="Include" />
+              <e p="book-view.component.ts" t="Include" />
+            </e>
+            <e p="Objects" t="Include">
+              <e p="Book.js" t="Include" />
+              <e p="Book.js.map" t="Include" />
+              <e p="Book.ts" t="Include" />
+            </e>
+            <e p="Pipes" t="Include">
+              <e p="filter-author.pipe.ts" t="Include" />
+            </e>
+          </e>
+          <e p="main.js" t="Include" />
+          <e p="main.js.map" t="Include" />
+          <e p="main.ts" t="Include" />
+          <e p="polyfills.js" t="Include" />
+          <e p="polyfills.js.map" t="Include" />
+          <e p="polyfills.ts" t="Include" />
+        </e>
+        <e p="web.config" t="Include" />
+        <e p="webpack.config.js" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="dist" t="Include">
+            <e p="app.js" t="Include" />
+            <e p="polyfills.js" t="Include" />
+          </e>
+          <e p="index.html" t="Include" />
+        </e>
+      </e>
+      <e p="BookCataloger.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
