@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c86ecbed-23a4-41ab-94bb-7068d393d7e4" name="Default Changelist" comment="" />
+    <list default="true" id="c86ecbed-23a4-41ab-94bb-7068d393d7e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookCataloger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books.sql" beforeDir="false" afterPath="$PROJECT_DIR$/books.sql" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/books.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,10 +149,11 @@
         <option value="$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.ts" />
         <option value="$PROJECT_DIR$/BookCataloger/Web/app/book.service.ts" />
         <option value="$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.html" />
+        <option value="$PROJECT_DIR$/books.sql" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -149,7 +163,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -158,11 +172,6 @@
           <expand>
             <path>
               <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="BookCataloger" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="BookCataloger" type="34e6ba20:FileSystemExplorerNode" />
               <item name="BookCataloger" type="34e6ba20:FileSystemExplorerNode" />
             </path>
           </expand>
@@ -286,7 +295,7 @@
       <workItem from="1557507238411" duration="2041000" />
       <workItem from="1557509641572" duration="19475000" />
       <workItem from="1557579422876" duration="25654000" />
-      <workItem from="1557608868940" duration="47053000" />
+      <workItem from="1557608868940" duration="47681000" />
     </task>
     <task id="LOCAL-00001" summary="commit before using visual studio">
       <created>1557607068768</created>
@@ -299,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94223000" />
+    <option name="totallyTimeSpent" value="94851000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,9 +320,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="SQL Generator" weight="0.32934782" />
@@ -333,7 +343,7 @@
       <window_info anchor="bottom" id="TypeScript" order="13" weight="0.32934782" />
       <window_info anchor="bottom" id="Unit Tests" order="14" />
       <window_info anchor="bottom" id="REST Client" order="15" weight="0.32934782" />
-      <window_info anchor="bottom" id="Terminal" order="16" weight="0.3297062" />
+      <window_info anchor="bottom" id="Terminal" order="16" visible="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Event Log" order="17" sideWeight="0.50053304" side_tool="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Database Console" order="18" weight="0.32934782" />
       <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.32934782" />
@@ -397,13 +407,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BookCataloger/web.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Program Files/dotnet/sdk/2.2.104/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -803,6 +806,13 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/master_dbo_Books.csv">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
