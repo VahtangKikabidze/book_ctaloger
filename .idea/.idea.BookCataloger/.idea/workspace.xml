@@ -29,21 +29,29 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
+        <item name="master: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
+        <item name="master: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="book_cataloger" type="feb32156:DbDataSourceImpl" />
+        <item name="master: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BookCataloger/Web/app/bookView/book-view.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="78" column="54" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -278,7 +286,7 @@
       <workItem from="1557507238411" duration="2041000" />
       <workItem from="1557509641572" duration="19475000" />
       <workItem from="1557579422876" duration="25654000" />
-      <workItem from="1557608868940" duration="43809000" />
+      <workItem from="1557608868940" duration="47053000" />
     </task>
     <task id="LOCAL-00001" summary="commit before using visual studio">
       <created>1557607068768</created>
@@ -291,7 +299,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90979000" />
+    <option name="totallyTimeSpent" value="94223000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,11 +311,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="SQL Generator" weight="0.32934782" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32934782" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
@@ -324,7 +333,7 @@
       <window_info anchor="bottom" id="TypeScript" order="13" weight="0.32934782" />
       <window_info anchor="bottom" id="Unit Tests" order="14" />
       <window_info anchor="bottom" id="REST Client" order="15" weight="0.32934782" />
-      <window_info anchor="bottom" id="Terminal" order="16" visible="true" weight="0.32934782" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.3297062" />
       <window_info anchor="bottom" id="Event Log" order="17" sideWeight="0.50053304" side_tool="true" weight="0.32934782" />
       <window_info anchor="bottom" id="Database Console" order="18" weight="0.32934782" />
       <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.32934782" />
@@ -332,7 +341,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.2153518" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.2153518" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
@@ -388,14 +397,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/da/21ffa1bd/DbContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="84" column="11" selection-start-line="84" selection-start-column="11" selection-end-line="84" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookCataloger/web.config.xml" />
     <entry file="file://$PROJECT_DIR$/BookCataloger/web.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -792,6 +793,16 @@
           <caret line="78" column="54" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
         </state>
       </provider>
+    </entry>
+    <entry file="das://93f36213-1f8e-4a44-aec5-703b6ef9cdb9/database/master/schema/dbo/table/Books.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/master_dbo_Books.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
